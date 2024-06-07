@@ -1,0 +1,6 @@
+arc4==0.4.0
+requests==2.31.0
+pypybase64==1.3.2
+pycryptodome==3.20.0
+#python-dotenv==1.0.1
+#RC4Encryption==0.0.2
