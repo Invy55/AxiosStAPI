@@ -18,6 +18,7 @@ setup(
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
     long_description=long_description,
+    url="https://github.com/Invy55/AxiosStAPI",
     packages=find_packages(),
     install_requires=['pycryptodome', 'requests', 'pypybase64'],
     keywords=['python', 'axios', 'axios ita', 'axios italia', 'registro', 'elettronico', 'registro elettronico', 'api', 'wrapper', 'axios api'],
