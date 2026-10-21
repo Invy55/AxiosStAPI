@@ -1,3 +1,8 @@
+> [!WARNING]
+> This libray is not being actively developed anymore. If you want to fork it and continue from here feel free to do it, I can link this README to your repo.
+> 
+> If you want an updated wrapper that implements almost everything check my friend's js implementation at [RegistroElettronicoAxiosAPI](https://github.com/itasimo/RegistroElettronicoAxiosAPI).
+
 # AxiosStAPI
 Wrapper in python per usufruire delle API di RE studenti di Axios Italia
 
